@@ -241,4 +241,4 @@ This repository serves as the official landing page for Motion Detection. The so
 **Get the most recent version of Motion Detection today!**
 
 ---
-**Last updated:** 2026-10-07 15:25:35 UTC
+**Last updated:** 2026-10-07 21:09:31 UTC
